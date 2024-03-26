@@ -19,7 +19,7 @@ Mʏ Nᴀᴍᴇ Is {bot}.
    
     SOURCE_TXT = """<b>NOTE:</b>
 ┏━•❃𓊈𒆜Oᴡɴᴇʀ Dᴇᴛᴀɪʟꜱ𒆜𓊉❃•━┓   
- ◈ ᴛɢ ɴᴀᴍᴇ : <a href=https://t.me/Help_Chat_u_bot>˹𝐏𝐫𝐢𝐧𝐜𝐞 𝐛𝐚𝐛𝐲 ˼ ♡゙♡</a>˹𝐏𝐫𝐢𝐧𝐜𝐞 𝐛𝐚𝐛𝐲 ˼ ♡゙♡
+ ◈ ᴛɢ ɴᴀᴍᴇ : <a href=https://t.me/Help_Chat_u_bot>˹𝐏𝐫𝐢𝐧𝐜𝐞 𝐛𝐚𝐛𝐲 ˼ ♡゙♡</a>
  ◈ ɴɪᴄᴋɴᴀᴍᴇ : 𝐏𝐫𝐢𝐧𝐜𝐞
  ◈ ᴜꜱᴇʀɴᴀᴍᴇ : <a href=https://t.me/Help_Chat_u_bot>𝐏𝐫𝐢𝐧𝐜𝐞 𝐛𝐚𝐛𝐲 ♡゙♡</a>
  ◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/Help_Chat_u_bot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>ᴄʟɪᴄᴋ ʜᴇʀᴇ
