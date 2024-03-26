@@ -3,7 +3,10 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>"""
+◈ I Aᴍ Mᴏᴠɪᴇ , ᴡᴇʙ ꜱᴇʀɪᴇꜱ Aɴᴅ Aɴɪᴍᴇ Pʀᴏᴠɪᴅᴇʀ Bᴏᴛ 
+◈ Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ ❤
+
+🦋 ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/Jai_Siya_Ram_J>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑</a>✨</b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
@@ -15,9 +18,9 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴠ4.5.0 </b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Jai_Siya_Ram_J>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Jai_Siya_Ram_J>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Jai_Siya_Ram_J>ᴍʀ.</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/Jai_Siya_Ram_J>ᴍʀ</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
