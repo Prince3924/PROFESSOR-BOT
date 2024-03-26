@@ -11,16 +11,19 @@ Mʏ Nᴀᴍᴇ Is {bot}.
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: @Jai_Siya_Ram_J
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/Help_Chat_u_bot>˹𝐏𝐫𝐢𝐧𝐜𝐞 𝐛𝐚𝐛𝐲 ˼ ♡゙♡</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴠ4.5.0 </b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Jai_Siya_Ram_J>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑</a>
-
-<b>ᴅᴇᴠ: <a herf=https://t.me/Jai_Siya_Ram_J>ᴍʀ</a></b>"""
+┏━•❃𓊈𒆜Oᴡɴᴇʀ Dᴇᴛᴀɪʟꜱ𒆜𓊉❃•━┓   
+ ◈ ᴛɢ ɴᴀᴍᴇ : <a href=https://t.me/Help_Chat_u_bot>˹𝐏𝐫𝐢𝐧𝐜𝐞 𝐛𝐚𝐛𝐲 ˼ ♡゙♡</a>˹𝐏𝐫𝐢𝐧𝐜𝐞 𝐛𝐚𝐛𝐲 ˼ ♡゙♡
+ ◈ ɴɪᴄᴋɴᴀᴍᴇ : 𝐏𝐫𝐢𝐧𝐜𝐞
+ ◈ ᴜꜱᴇʀɴᴀᴍᴇ : <a href=https://t.me/Help_Chat_u_bot>𝐏𝐫𝐢𝐧𝐜𝐞 𝐛𝐚𝐛𝐲 ♡゙♡</a>
+ ◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/Help_Chat_u_bot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>ᴄʟɪᴄᴋ ʜᴇʀᴇ
+‿︵‿︵‿︵‿୨❤୧‿︵‿︵‿︵‿"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
